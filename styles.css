@@ -332,18 +332,18 @@ footer {
 .experience-card .date-range {
     display: block;
     font-size: 1em;
-    color: #777;
+    color: #100f0f;
     margin-bottom: 15px;
 }
 
 .experience-card p {
     font-size: 1.1em;
-    color: #666;
+    color: #0f0707;
     line-height: 1.6;
 }
 
 .experience-card strong {
-    color: #ffcc00;
+    color: #b13017 ;
 }
 
 
@@ -390,7 +390,7 @@ footer {
 
 .project-card p {
     font-size: 1em;
-    color: #666;
+    color: #0e0d0d;
     margin-bottom: 20px;
 }
 
